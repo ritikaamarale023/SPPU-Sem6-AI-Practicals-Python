@@ -1,0 +1,12 @@
+#Output:
+
+You: hello
+Bot: Hello! How can I help you?
+You: delivery
+Bot: Delivery takes 3 to 5 business days.
+You: price
+Bot: Prices are available on our website.
+You: product
+Bot: We offer electronics, clothes, and accessories.
+You: bye
+Bot: Thank you for visiting!
