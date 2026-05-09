@@ -1,0 +1,8 @@
+#Output:
+
+Solution Found:
+
+. . Q .
+Q . . .
+. . . Q
+. Q . .
