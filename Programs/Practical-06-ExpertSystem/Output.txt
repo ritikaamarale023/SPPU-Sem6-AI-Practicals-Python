@@ -1,0 +1,15 @@
+===== Help Desk Expert System =====
+Type 'exit' to stop
+
+Enter your problem: internet
+Solution: Restart the router and check cables.
+Enter your problem: slow computer
+Solution: Close unnecessary applications and restart system.
+Enter your problem: password reset
+Solution: Click on 'Forgot Password' option.
+Enter your problem: printer
+Solution: Check printer connection and install drivers.
+Enter your problem: software installation
+Solution: Run installer as administrator.
+Enter your problem: exit
+Thank you for using Help Desk Expert System.
