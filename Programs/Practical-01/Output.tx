@@ -1,0 +1,6 @@
+#Output:
+
+BFS Traversal:
+A B C D E F 
+DFS Traversal:
+A B D E F C 

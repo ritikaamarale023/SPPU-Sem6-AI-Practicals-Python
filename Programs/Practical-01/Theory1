@@ -1,0 +1,51 @@
+# Practical 01 - DFS and BFS Algorithm
+
+## Aim
+To implement DFS (Depth First Search) and BFS (Breadth First Search) algorithms using an undirected graph and perform recursive traversal of all vertices.
+
+---
+
+## Theory
+
+Graph traversal is the process of visiting all vertices in a graph.
+
+### 1. Breadth First Search (BFS)
+BFS visits nodes level by level starting from the source node.
+
+- Uses Queue data structure
+- Explores nearest nodes first
+- Useful in shortest path problems
+
+### 2. Depth First Search (DFS)
+DFS explores as far as possible along one branch before backtracking.
+
+- Uses recursion or stack
+- Traverses depth-wise
+- Useful in path finding and tree traversal
+
+---
+
+## Applications
+- Artificial Intelligence
+- Web Crawling
+- Network Analysis
+- Path Finding
+- Social Networks
+
+---
+
+## Algorithm for BFS
+1. Start from source node
+2. Mark node as visited
+3. Insert node into queue
+4. Remove node from queue
+5. Visit all unvisited adjacent nodes
+6. Repeat until queue becomes empty
+
+---
+
+## Algorithm for DFS
+1. Start from source node
+2. Mark node as visited
+3. Visit adjacent unvisited nodes recursively
+4. Repeat until all nodes are visited
